@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Sparta_Project\\Multiplayer\\SVMulti\\Source\\SVMulti\\SVMulti.Build.cs",
+		"C:\\Sparta_Project\\Multiplayer\\SVMulti\\Source\\SVMulti.Target.cs",
+		"C:\\Sparta_Project\\Multiplayer\\SVMulti\\Source\\SVMultiEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.3"
+}

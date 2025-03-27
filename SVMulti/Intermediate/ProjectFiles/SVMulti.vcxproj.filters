@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SVMulti.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SVMulti.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SVMultiEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SVMulti">
+      <UniqueIdentifier>{DD43F654-4A29-3308-AF29-F39E335EFA02}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SVMulti\BaseballGameMode.cpp">
+      <Filter>Source\SVMulti</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SVMulti\BaseballGameMode.h">
+      <Filter>Source\SVMulti</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SVMulti\BaseballGameState.cpp">
+      <Filter>Source\SVMulti</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SVMulti\BaseballGameState.h">
+      <Filter>Source\SVMulti</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SVMulti\BaseballPlayerController.cpp">
+      <Filter>Source\SVMulti</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SVMulti\BaseballPlayerController.h">
+      <Filter>Source\SVMulti</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SVMulti\MySvCPPLib.cpp">
+      <Filter>Source\SVMulti</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SVMulti\MySvCPPLib.h">
+      <Filter>Source\SVMulti</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SVMulti\MyUserWidget.cpp">
+      <Filter>Source\SVMulti</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SVMulti\MyUserWidget.h">
+      <Filter>Source\SVMulti</Filter>
+    </ClCompile>
+    <None Include="..\..\Source\SVMulti\SVMulti.Build.cs">
+      <Filter>Source\SVMulti</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SVMulti\SVMulti.cpp">
+      <Filter>Source\SVMulti</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SVMulti\SVMulti.h">
+      <Filter>Source\SVMulti</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

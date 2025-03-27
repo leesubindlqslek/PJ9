@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SVMulti",
+			"Path": "..\\Source\\SVMulti.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SVMultiEditor",
+			"Path": "..\\Source\\SVMultiEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
